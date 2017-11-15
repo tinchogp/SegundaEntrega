@@ -1,0 +1,83 @@
+body{
+background-image: url(../images/fondo.png);*/
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-position: center center;
+}
+
+nav{
+  margin: auto;
+  border-radius:0px;
+  border-color:none;
+  background-image: url(../images/fondonav.png);*/
+ }
+
+ nav ul li a {
+     color:white;
+ }
+
+ .container {
+background-color: rgba(255, 255, 117, 0.4);
+
+ }
+ .carrusel {
+   height:480px;
+}
+
+  .container .carrusel {
+  width: 100%;
+  opacity: 0.8;
+  height: 640px;
+
+}
+.container img {
+width: 100%;
+}
+
+ .container ul li {
+   color:white;
+ }
+
+ .container td {
+   color:white;
+ }
+
+ .navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a>{
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: grey;
+    background-color: transparent;
+}
+
+h1 {
+  text-align:center;
+  color:orange;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+  color: white;
+}
+
+ul li{
+  list-style-type: none;
+}
+li a:hover  {
+  text-decoration: none;
+}
+
+.panel{
+  color: black;
+   background-color: inherit;
+}
+
+col-xs-12 col-sm-12 col-md-12 col-lg-12 img{
+  width: 100%;
+
+}
